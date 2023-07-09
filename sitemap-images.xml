@@ -6,32 +6,56 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Stefan-Rutland-Patriotic-Alternative-04.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Stefan-Rutland-Patriotic-Alternative-04.jpg</image:loc>
         <image:title>Neo-Nazi Streamer and Patriotic Alternative activist “Yuro” exposed as Stefan Rutland</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/FvHq_aIX0AIStdU.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Homeland-Party-Fall-Out-Cannock-Red-Flare-01.jpg</image:loc>
         <image:title>Neo-Nazi Homeland Party Fall Out With Cannock Anti-Migrant Protestors</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Fu0SV-XXsAUOq-9.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Independent-Candidate-Neo-Nazis-Red-Flare-01.jpg</image:loc>
         <image:title>Independent Council Candidate Linked to Neo-Nazis</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Jerome-OReilly-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Jerome-OReilly-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
         <image:title>Patriotic Alternative Wales Organiser Revealed as Jerome O’Reilly</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/FsPV7UFXsAEl_Q3.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Patriotic-Alternative-Knowsley-Riot-Red-Flare-01.jpg</image:loc>
         <image:title>The Uprising Is Happening”: Patriotic Alternative Celebrate Knowsley Riot</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Leon-Mayer-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Leon-Mayer-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
         <image:title>Swindon Council Employee Exposed as Neo-Nazi</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/James-Owens-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/James-Owens-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
         <image:title>Neo-Nazi YouTuber “The Ayatollah” Exposed as James Owens</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -40,12 +64,36 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/James-Owens-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
-        <image:title>Neo-Nazi YouTuber “The Ayatollah” Exposed as James Owens</image:title>
+        <image:loc>https://redflare.info/assets/resized/800/James-Owens-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/James-Owens-Patriotic-Alternative-Red-Flare-02.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/James-Owens-Patriotic-Alternative-Red-Flare-02.jpg</image:loc>
         <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -54,16 +102,40 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Jerome-OReilly-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
-        <image:title>Patriotic Alternative Wales Organiser Revealed as Jerome O’Reilly</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://redflare.info/assets/articles/Jerome-OReilly-Patriotic-Alternative-Red-Flare-02.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Jerome-OReilly-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
         <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Jerome-OReilly-Patriotic-Alternative-Red-Flare-03.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Jerome-OReilly-Patriotic-Alternative-Red-Flare-02.jpg</image:loc>
         <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info/assets/resized/800/Jerome-OReilly-Patriotic-Alternative-Red-Flare-03.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -72,12 +144,36 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Leon-Mayer-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
-        <image:title>Swindon Council Employee Exposed as Neo-Nazi</image:title>
+        <image:loc>https://redflare.info/assets/resized/800/Leon-Mayer-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Leon-Mayer-Patriotic-Alternative-Red-Flare-02.jpg</image:loc>
-        <image:title>Mayer’s now-deleted YouTube channel</image:title>
+        <image:loc>https://redflare.info/assets/resized/800/Leon-Mayer-Patriotic-Alternative-Red-Flare-02.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -86,12 +182,36 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/FsPV7UFXsAEl_Q3.jpg</image:loc>
-        <image:title>The Uprising Is Happening”: Patriotic Alternative Celebrate Knowsley Riot</image:title>
+        <image:loc>https://redflare.info/assets/resized/800/Patriotic-Alternative-Knowsley-Riot-Red-Flare-01.jpg</image:loc>
+        <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/FsPV7UFXsAEl_Q4.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Patriotic-Alternative-Knowsley-Riot-Red-Flare-02.jpg</image:loc>
         <image:title>A call to protest from a local Instagram page</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -100,8 +220,32 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Fu0SV-XXsAUOq-9.jpg</image:loc>
-        <image:title>Independent Council Candidate Linked to Neo-Nazis</image:title>
+        <image:loc>https://redflare.info/assets/resized/800/Independent-Candidate-Neo-Nazis-Red-Flare-01.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -110,15 +254,33 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/FvHq_aIX0AIStdU.jpg</image:loc>
-        <image:title>Neo-Nazi Homeland Party Fall Out With Cannock Anti-Migrant Protestors</image:title>
+        <image:loc>https://redflare.info/assets/resized/800/Homeland-Party-Fall-Out-Cannock-Red-Flare-01.jpg</image:loc>
+        <image:title></image:title>
       </image:image>
-  </url>
-  <url>
-    <loc>https://redflare.info/contact/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://redflare.info/articles/neo-nazi-yuro-stefan-rutland/</loc>
@@ -126,24 +288,78 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Stefan-Rutland-Patriotic-Alternative-04.jpg</image:loc>
-        <image:title>Neo-Nazi Streamer and Patriotic Alternative activist “Yuro” exposed as Stefan Rutland</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://redflare.info/assets/articles/Stefan-Rutland-Patriotic-Alternative-02.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Stefan-Rutland-Patriotic-Alternative-04.jpg</image:loc>
         <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Stefan-Rutland-Patriotic-Alternative-03.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/480/Stefan-Rutland-Patriotic-Alternative-02.jpg</image:loc>
         <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Stefan-Rutland-Patriotic-Alternative-01.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Stefan-Rutland-Patriotic-Alternative-03.jpg</image:loc>
         <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Fu0SV-XXsAUOq-11.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/320/Stefan-Rutland-Patriotic-Alternative-01.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info/assets/resized/800/Stefan-Rutland-Patriotic-Alternative-05.jpg</image:loc>
         <image:title>Stefan Rutland was the only speaker at PA’s Spring 2022 conference to remain anonymous.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://redflare.info/contact/</loc>
+    <lastmod>2023-07-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -152,32 +368,56 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Stefan-Rutland-Patriotic-Alternative-04.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Stefan-Rutland-Patriotic-Alternative-04.jpg</image:loc>
         <image:title>Neo-Nazi Streamer and Patriotic Alternative activist “Yuro” exposed as Stefan Rutland</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/FvHq_aIX0AIStdU.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Homeland-Party-Fall-Out-Cannock-Red-Flare-01.jpg</image:loc>
         <image:title>Neo-Nazi Homeland Party Fall Out With Cannock Anti-Migrant Protestors</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Fu0SV-XXsAUOq-9.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Independent-Candidate-Neo-Nazis-Red-Flare-01.jpg</image:loc>
         <image:title>Independent Council Candidate Linked to Neo-Nazis</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Jerome-OReilly-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Jerome-OReilly-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
         <image:title>Patriotic Alternative Wales Organiser Revealed as Jerome O’Reilly</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/FsPV7UFXsAEl_Q3.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Patriotic-Alternative-Knowsley-Riot-Red-Flare-01.jpg</image:loc>
         <image:title>The Uprising Is Happening”: Patriotic Alternative Celebrate Knowsley Riot</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/Leon-Mayer-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/Leon-Mayer-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
         <image:title>Swindon Council Employee Exposed as Neo-Nazi</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://redflare.info/assets/articles/James-Owens-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
+        <image:loc>https://redflare.info/assets/resized/800/James-Owens-Patriotic-Alternative-Red-Flare-01.jpg</image:loc>
         <image:title>Neo-Nazi YouTuber “The Ayatollah” Exposed as James Owens</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
       </image:image>
   </url>
   <url>
@@ -185,5 +425,29 @@
     <lastmod>2023-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-sunday-times.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/the-guardian.svg</image:loc>
+        <image:title>The Guardian logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/times-radio.svg</image:loc>
+        <image:title>The Times logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/vice-media.svg</image:loc>
+        <image:title>Vice logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/private-eye-logo.png</image:loc>
+        <image:title>Private Eye logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://redflare.info//assets/img/press/logos/novara-media.svg</image:loc>
+        <image:title>Novara Media logo</image:title>
+      </image:image>
   </url>
 </urlset>
