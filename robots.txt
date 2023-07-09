@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://redflare.info/sitemap.xml
+Sitemap: https://redflare.info/sitemap-images.xml
