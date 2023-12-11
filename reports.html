@@ -1,0 +1,80 @@
+---
+
+layout: default
+
+title: Reports
+description: If you have any additional information regarding our investigations or any other far-right organisers or activists, please reach out to us confidentially and securely via encrypted channels.
+
+metatitle: Reports
+metadescription: If you have any additional information regarding our investigations or any other far-right organisers or activists, please reach out to us confidentially and securely via encrypted channels.
+
+index: index
+
+---
+
+<section class="grid-section">
+    <div class="grid-section--cover">
+        <div class="grid-content">
+            <h1 class="grid-item--category">
+                <i class="icon-arrow-down"><svg>
+                        <use xlink:href="#icon-arrow-down"></use>
+                    </svg></i>
+                <span>{{ page.title }}</span>
+            </h1>
+            <p>Our reports are an essential read for anybody interested in understanding the British far right today. We published the first report on the devastating split in Britain’s largest fascist group, Patriotic Alternative, which led to the formation of Homeland, a new political party founded to focus on winning power through the electoral system.</p>
+        </div>
+        {% if page.faq == true %}
+        {% include blocks/faq.html %}
+        {% endif %}
+    </div>
+</section>
+
+<section class="grid-section" style="border-top: 1px solid;margin-top: 4rem;padding-top: 4rem;">
+  <div class="grid-section--cover">
+    <h1 class="grid-item--category">
+      <i class="icon-arrow-down"><svg>
+          <use xlink:href="#icon-arrow-down"></use>
+        </svg></i>
+      <span>The Latest</span>
+    </h1>
+    {% assign sorted_reports = site.data.reports | sort: 'date' | reverse %}
+    <div class="grid-article--latest" data-pagination="12">
+      {% for report in sorted_reports offset:0 limit:20 %}
+      <article class="grid-article" data-size="md" data-style="0" itemscope
+        itemtype="https://schema.org/Article">
+        <a target="_blank" href="{{ report.url | prepend: site.baseurl | prepend: site.url }}"
+          class="grid-article--link" itemprop="url">
+          <header class="grid-article--header">
+            <h2 class="grid-article--title" itemprop="headline">
+                <span>{{ report.title }}</span><br />
+                <span style="font-weight:400; font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; text-transform:uppercase;font-size: 13px; margin-top: 1rem; display: block; letter-spacing: 1px;">Download Report <i class="icon-arrow-up"><svg><use xlink:href="#icon-arrow-up"></use></svg></i></span>
+            </h2>
+          </header>
+          <figure class="grid-article--figure" style="aspect-ratio:1/1.41; border: 1px solid #ddd;">
+            <img src="" class="mw-100 h-auto">
+            {% responsive_image_block %}
+            path: {{ report.thumbnail }}
+            class: "mw-100 h-auto"
+            alt: "{{ report.title }}"
+            {% endresponsive_image_block %}
+          </figure>
+          <div class="grid-article--meta">
+            {% if report.date %}
+            <div class="grid-meta--date">
+              <time datetime="{{ article.date | date_to_xmlschema }}"
+                itemprop="datePublished">{{ report.date | date:
+                "%d.%m.%Y" }}</time>
+            </div>
+            {% endif %}
+          </div>
+          <footer class="grid-article--footer">
+            <div class="grid-article--btn">Read more <i class="icon-arrow-right"><svg>
+                  <use xlink:href="#icon-arrow-right"></use>
+                </svg></i></div>
+          </footer>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
