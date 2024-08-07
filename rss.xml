@@ -4,11 +4,19 @@
     <title>Red Flare</title>
     <description>We are a group of anti-fascist investigators, using open source and investigative methods to expose and oppose the far right in Britain.</description>
     <link>https://redflare.info</link>
-    <lastBuildDate>Tue, 06 Aug 2024 15:41:17 +0100</lastBuildDate>
-    <pubDate>Tue, 06 Aug 2024 15:41:17 +0100</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2024 15:38:27 +0100</lastBuildDate>
+    <pubDate>Wed, 07 Aug 2024 15:38:27 +0100</pubDate>
     <ttl>60</ttl>
 
     
+    
+    <item>
+      <title>Things to consider when evaluating far-right threats</title>
+      <description>Over the past week we have seen social media users spreading rumours and speculation about far-right protests without any corroborating evidence.</description>
+      <link>https://redflare.info/articles/consider-evaluating-far-right-threats/</link>
+      <guid>https://redflare.info/articles/consider-evaluating-far-right-threats/</guid>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0100</pubDate>
+    </item>
     
     <item>
       <title>Neo-Nazis call for arson attacks on immigration-related charities, advice centres and solicitors</title>
@@ -96,14 +104,6 @@
       <link>https://redflare.info/articles/neo-nazi-yuro-stefan-rutland/</link>
       <guid>https://redflare.info/articles/neo-nazi-yuro-stefan-rutland/</guid>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0100</pubDate>
-    </item>
-    
-    <item>
-      <title>Neo-Nazi Homeland Party Fall Out With Cannock Anti-Migrant Protestors</title>
-      <description>Following our exposés last week, the neo-Nazi Homeland Party have been asked to leave the anti-migrant campaign in Cannock, Staffordshire by local residents and the council candidate they had been supporting.</description>
-      <link>https://redflare.info/articles/homeland-party-fall-out-cannock/</link>
-      <guid>https://redflare.info/articles/homeland-party-fall-out-cannock/</guid>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0100</pubDate>
     </item>
     
   </channel>
