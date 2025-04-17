@@ -1,69 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://redflare.info/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/contact/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/articles/youtuber-ayatollah-exposed-james-owens/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/latest/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/articles/patriotic-alternative-wales-organiser-revealed/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/articles/swindon-neo-nazi-leon-mayer/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/articles/uprising-happening-patriotic-alternative-knowsley-riot/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/articles/independent-candidate-linked-neo-nazis/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/articles/homeland-party-fall-out-cannock/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/about/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://redflare.info/articles/neo-nazi-yuro-stefan-rutland/</loc>
-    <lastmod>2023-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
+  
+    
+    
+      
+      
+        
+          <url>
+            <loc>https://redflare.info/about/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+          </url>
+        
+      
+    
+  
+    
+    
+      
+      
+        
+          <url>
+            <loc>https://redflare.info/contact/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+          </url>
+        
+      
+    
+  
+    
+    
+      
+      
+        
+          <url>
+            <loc>https://redflare.info/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+          </url>
+        
+      
+    
+  
+    
+    
+      
+      
+        
+          <url>
+            <loc>https://redflare.info/latest/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+          </url>
+        
+      
+    
+  
+    
+    
+      
+      
+    
+  
+    
+    
+      
+      
+        
+          <url>
+            <loc>https://redflare.info/reports/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+          </url>
+        
+      
+    
+  
+    
+    
+      
+      
+    
+  
+    
+    
+      
+      
+    
+  
+    
+    
+      
+      
+    
+  
+    
+    
+      
+      
+    
+  
+    
+    
+      
+      
+        
+          <url>
+            <loc>https://redflare.info/stripe-stop-funding-fascism/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+          </url>
+        
+      
+    
+  
+    
+    
+      
+      
+        
+          <url>
+            <loc>https://redflare.info/subscribe/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+          </url>
+        
+      
+    
+  
 </urlset>
